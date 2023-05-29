@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Data.SQLite;
+using SQLite;
 
 
 namespace StoreRoom_WinForm
@@ -16,16 +16,8 @@ namespace StoreRoom_WinForm
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent();  
         }
 
-        private void CreateTable()
-        {
-            System.Data.SQLite.SQLiteConnection Connection 
-                = new SQLiteConnection(System.Environment
-                .GetFolderPath(Environment.SpecialFolder.LocalApplicationData,
-                Environment.SpecialFolderOption.Create),true);
-
-        }
     }
 }
