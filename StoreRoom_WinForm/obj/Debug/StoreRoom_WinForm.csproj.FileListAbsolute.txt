@@ -34,3 +34,7 @@ D:\Project\GitHub\StoreRoom_WinForm\StoreRoom_WindowsForm\StoreRoom_WinForm\bin\
 D:\Project\GitHub\StoreRoom_WinForm\StoreRoom_WindowsForm\StoreRoom_WinForm\bin\Debug\System.Memory.xml
 D:\Project\GitHub\StoreRoom_WinForm\StoreRoom_WindowsForm\StoreRoom_WinForm\bin\Debug\System.Numerics.Vectors.xml
 D:\Project\GitHub\StoreRoom_WinForm\StoreRoom_WindowsForm\StoreRoom_WinForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project\GitHub\StoreRoom_WinForm\StoreRoom_WindowsForm\StoreRoom_WinForm\bin\Debug\Newtonsoft.Json.dll
+D:\Project\GitHub\StoreRoom_WinForm\StoreRoom_WindowsForm\StoreRoom_WinForm\bin\Debug\SQLiteNetExtensions.dll
+D:\Project\GitHub\StoreRoom_WinForm\StoreRoom_WindowsForm\StoreRoom_WinForm\bin\Debug\Newtonsoft.Json.xml
+D:\Project\GitHub\StoreRoom_WinForm\StoreRoom_WindowsForm\StoreRoom_WinForm\bin\Debug\SQLiteNetExtensions.pdb
